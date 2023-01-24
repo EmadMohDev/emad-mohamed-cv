@@ -3,5 +3,5 @@
 
 
 <p>
-    <img src="https://github.com/EmadMohDev/emad-mohamed-cv/blob/main/files/cv.PNG" alt="cv">
+    <img src="https://raw.githubusercontent.com/EmadMohDev/emad-mohamed-cv/main/files/cv.PNG" alt="cv">
 </p>
