@@ -3,5 +3,5 @@
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/EmadMohDev/laravel8_livewire2/emad-mohamed-cv/main/files/cv.PNG" alt="create post">
+    <img src="https://raw.githubusercontent.com/EmadMohDev/emad-mohamed-cv/main/files/cv.PNG" alt="create post">
 </p>
